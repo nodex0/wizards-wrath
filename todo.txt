@@ -1,0 +1,12 @@
+Añadir gente en llamas y corriendo
+Añadir casa que spawnea gente
+Añadir botones con cooldowns y teclas
+Añadir IA para que las personas se giren en el ultimo nivel
+Idealmente, añadir otros dos hechizos
+Barriles explosivos
+Casas explosivas
+Mundo con niveles, y cada nivel que sean multiples mapas
+Controles mediante mando, con XInput y DirectInput
+Controles para movil??? Como seria???
+Pathfinding para los aldeanos y eso, que son un poco retrasados
+Estandarizar un poco los hechizos y sus sprites por favor
